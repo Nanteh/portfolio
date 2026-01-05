@@ -156,3 +156,27 @@ footer {
         transform: translateY(0);
     }
 }
+
+
+.subtitle {
+    font-size: 1.1rem;
+    opacity: 0.95;
+}
+
+.contact a {
+    color: #2b5876;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.contact-note {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+}
+
+
