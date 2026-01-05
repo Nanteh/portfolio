@@ -178,5 +178,10 @@ footer {
     font-style: italic;
     color: #555;
 }
+#experience .card p,
+#certificates .card p {
+    font-size: 0.95rem;
+}
+
 
 
