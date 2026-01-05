@@ -1,4 +1,3 @@
-// Script minimal et propre
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Portfolio chargé avec succès ✔️");
+    console.log("Portfolio de Nantenaina Nanteh chargé avec succès 🚀");
 });
